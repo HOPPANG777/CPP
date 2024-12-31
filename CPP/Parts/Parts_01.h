@@ -9,8 +9,12 @@ private:
 	void IOStream();
 	void OutputStream();
 	void InputStream();
+	void StudyTest();
 
 private:
 	int num = 10;
 	float fltNum = 3.141592f;
+	
+	int a = 5, b = 0;
+
 };

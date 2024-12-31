@@ -26,6 +26,7 @@ using namespace std;
 
 #define SAFE_DELETE(p) { if(p) { delete(p); p = nullptr; } }
 #define SAFE_DELETE_ARRAY(p) { if(p) { delete[](p); p = nullptr; } }
+#define CALL_WITH_MAX(a, b) ((a) > (b) ? (a) : (b))
 
 #define DECLARE_SINGLETON(CLASS_NAME)							\
 private:														\

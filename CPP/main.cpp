@@ -8,7 +8,7 @@ struct TestData
 
 int main()
 {
-	//Parts_01 Parts_01;
+	Parts_01 Parts_01;
 	//Parts_02 Parts_02;
 	//Parts_03 Parts_03; //Parts_03 클래스를 통해서 p03 객체를 만든다.
 					//Parts_03 클래스의 생성자가 호출이 된다.
@@ -17,7 +17,7 @@ int main()
 	//Parts_06 Parts_06;
 	//Parts_07 Parts_07;
 	//Parts_08 Parts_08;
-	Parts_09 Parts_09;
+	//Parts_09 Parts_09;
 
 	//형변환
 	/*
