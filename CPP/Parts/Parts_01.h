@@ -9,7 +9,6 @@ private:
 	void IOStream();
 	void OutputStream();
 	void InputStream();
-	void StudyTest();
 
 private:
 	int num = 10;

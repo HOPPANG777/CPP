@@ -3,10 +3,9 @@
 
 Parts_01::Parts_01()
 {
-	//IOStream();
+	IOStream();
 	//OutputStream();
 	//InputStream();
-	StudyTest();
 }
 
 void Parts_01::IOStream()
@@ -75,11 +74,5 @@ void Parts_01::InputStream()
 	//cin >> string;
 	cin.getline(string, sizeof(string)); //띄어쓰기를 포함한 문자를 입력하기 위해 사용.
 	cout << "결과 : " << string << '\n';
-}
-
-void Parts_01::StudyTest()
-{
-		
-	
 }
 

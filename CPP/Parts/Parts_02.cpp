@@ -11,7 +11,7 @@
 
 Parts_02::Parts_02()
 {
-	//Overloading();
+	Overloading();
 	Reference();
 	//RandomEngine();
 }
@@ -37,7 +37,7 @@ void Parts_02::Reference()
 	int val = 0;
 	//int* ptr = &val; //주소연산자 &
 	int& ref = val;  //레퍼런스 &
-
+	//int& ref2 = NULL; //레퍼런스는 NULL로 초기화 불가능
 	ref = 10;
 
 	cout << "===== 레퍼런스 결과 =====\n";
@@ -53,6 +53,7 @@ void Parts_02::Reference()
 
 	cout << "===== 값 교환 후 =====\n";
 	cout << a << ", " << b << "\n\n";
+
 }
 
 void Parts_02::RandomEngine()
