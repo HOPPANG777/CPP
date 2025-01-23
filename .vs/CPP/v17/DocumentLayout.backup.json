@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\VicZero_Coding\\Project\\CPP\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C678E45B-B3C2-4BBD-A560-7F883CA9CC1E}|CPP\\CPP.vcxproj|D:\\VicZero_Coding\\Project\\CPP\\CPP\\Parts\\Parts_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C678E45B-B3C2-4BBD-A560-7F883CA9CC1E}|CPP\\CPP.vcxproj|solutionrelative:CPP\\Parts\\Parts_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C678E45B-B3C2-4BBD-A560-7F883CA9CC1E}|CPP\\CPP.vcxproj|D:\\VicZero_Coding\\Project\\CPP\\CPP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C678E45B-B3C2-4BBD-A560-7F883CA9CC1E}|CPP\\CPP.vcxproj|solutionrelative:CPP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C678E45B-B3C2-4BBD-A560-7F883CA9CC1E}|CPP\\CPP.vcxproj|D:\\VicZero_Coding\\Project\\CPP\\CPP\\Parts\\Parts_02.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C678E45B-B3C2-4BBD-A560-7F883CA9CC1E}|CPP\\CPP.vcxproj|solutionrelative:CPP\\Parts\\Parts_02.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,46 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\VicZero_Coding\\Project\\CPP\\CPP\\main.cpp",
-              "RelativeDocumentMoniker": "CPP\\main.cpp",
-              "ToolTip": "D:\\VicZero_Coding\\Project\\CPP\\CPP\\main.cpp",
-              "RelativeToolTip": "CPP\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-01T13:36:30.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Parts_02.h",
-              "DocumentMoniker": "D:\\VicZero_Coding\\Project\\CPP\\CPP\\Parts\\Parts_02.h",
-              "RelativeDocumentMoniker": "CPP\\Parts\\Parts_02.h",
-              "ToolTip": "D:\\VicZero_Coding\\Project\\CPP\\CPP\\Parts\\Parts_02.h",
-              "RelativeToolTip": "CPP\\Parts\\Parts_02.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-01T13:26:10.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Parts_02.cpp",
-              "DocumentMoniker": "D:\\VicZero_Coding\\Project\\CPP\\CPP\\Parts\\Parts_02.cpp",
-              "RelativeDocumentMoniker": "CPP\\Parts\\Parts_02.cpp",
-              "ToolTip": "D:\\VicZero_Coding\\Project\\CPP\\CPP\\Parts\\Parts_02.cpp",
-              "RelativeToolTip": "CPP\\Parts\\Parts_02.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-01T13:09:26.986Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }
